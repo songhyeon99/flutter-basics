@@ -1,16 +1,5 @@
 # flutter_basics
 
-A new Flutter project.
+코딩애플 플러터 기초 문법 강의를 듣고 정리한 자료입니다.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://www.youtube.com/playlist?list=PLfLgtT94nNq1izG4R2WDN517iPX4WXH3C
